@@ -30,8 +30,9 @@ I'm actively studying **algorithms, networks,** and **advanced Java** to improve
 4. Continue learning about **network protocols and security** as they’re essential for scalable applications.
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **Email**: [Your Email Address]
+- **LinkedIn**: [Shaan Patel](https://www.linkedin.com/in/shaan-patel-609879271).
+- **Email**: shaanpatel013@gmail.com
+- **instagram**: [_shaan_013](https://www.instagram.com/_shaan_013/)
 
 ---
 
